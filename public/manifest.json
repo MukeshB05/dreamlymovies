@@ -1,6 +1,6 @@
 {
-  "name": "YorWatch",
-  "short_name": "YorWatch",
+  "name": "DreamlyMovies",
+  "short_name": "dreamlymovies",
   "description": "Discover Movies & TV Shows",
   "start_url": "/",
   "display": "standalone",
